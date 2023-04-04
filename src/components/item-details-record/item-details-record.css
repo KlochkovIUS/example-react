@@ -1,0 +1,7 @@
+.list-group-item {
+  padding: 0.25rem;
+}
+
+.list-group-item .term {
+  margin-right: 0.5rem;
+}
